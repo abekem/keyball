@@ -40,6 +40,3 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 // レイヤー数
 #define DYNAMIC_KEYMAP_LAYER_COUNT 5
-
-// 自動マウスレイヤーの維持時間
-#define AUTO_MOUSE_LAYER_KEEP_TIME 30000
